@@ -10,3 +10,4 @@ List of elements we need:
 5. food
 6. great friendship
 7. clothes
+8. had
