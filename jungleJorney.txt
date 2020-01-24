@@ -7,3 +7,4 @@ List of elements we need:
 2. repellent
 3. flashlight
 4.bottler water
+5. food
